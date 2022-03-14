@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "vloop\\print\\me": "src"
+      "vloop\\print\\me\\": "src"
     }
   },
   "repositories": [
