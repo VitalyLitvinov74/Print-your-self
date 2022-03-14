@@ -1,5 +1,5 @@
 <?php
-namespace vloop\print\me;
+namespace vloop\PrintYourSelf;
 
 interface PrintYourSelf
 {
