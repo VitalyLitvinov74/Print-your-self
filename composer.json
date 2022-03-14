@@ -1,0 +1,33 @@
+{
+  "name": "vloop/print-your-self",
+  "description": "Package",
+  "type": "library",
+  "keywords": [
+    "object",
+    "interface",
+    "contract communicating",
+    "contract"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vitaly Litvinov",
+      "email": "cheltend@mail.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "vloop\\print\\me": "src"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
